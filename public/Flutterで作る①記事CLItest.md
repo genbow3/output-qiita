@@ -1,10 +1,10 @@
 ---
 title: Flutterで作る①記事CLItest
 tags:
-  - 'flutter'
+  - Flutter
 private: false
-updated_at: '2024/1/20'
-id: null
+updated_at: '2024-01-20T11:11:09+09:00'
+id: d3a8865eb82257c8aa4e
 organization_url_name: null
 slide: false
 ignorePublish: false
